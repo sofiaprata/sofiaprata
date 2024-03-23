@@ -22,6 +22,6 @@
 >I'm also currently doing Bachelor's Degree in Computer Science. 
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-87b3de?style=for-the-badge&logo=linkedin&logoColor=B#ffffff)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![Instagram](https://img.shields.io/badge/-Instagram-ae9bf2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-9d74b5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-87b3de?style=for-the-badge&logo=linkedin&logoColor=B#ffffff)](www.linkedin.com/in/sofia-freitas-batista-prata-a1a9872b2)
+[![Instagram](https://img.shields.io/badge/-Instagram-ae9bf2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sofiaprata9/)
+[![GitHub](https://img.shields.io/badge/GitHub-9d74b5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sofiaprata)
